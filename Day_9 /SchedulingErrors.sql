@@ -17,4 +17,3 @@ GROUP BY
     s.year, s.semester
 ORDER BY 
     s.year ASC;
-Question 2
